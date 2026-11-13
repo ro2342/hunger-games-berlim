@@ -2,10 +2,11 @@
 
 ## Estado atual (13/11/2026)
 - Página no ar: https://ro2342.github.io/hunger-games-berlim/ (repo `ro2342/hunger-games-berlim`, GitHub Pages, branch `main`, raiz).
-- Cobre 11 paradas do Ostbahnhof, de longe pra perto: Olympiastadion, ICC, ICC Passerelle, Messe Berlin (Eingang Süd), Flughafen Tempelhof, Krematorium Baumschulenweg, Velodrom, Tieranatomisches Theater, Altes Museum, Altes Stadthaus (Bärensaal), Strausberger Platz.
+- Cobre 8 paradas do Ostbahnhof, de longe pra perto: Olympiastadion, ICC, ICC Passerelle, Messe Berlin (Eingang Süd), Flughafen Tempelhof, Velodrom, Altes Museum, Strausberger Platz.
 - Rod só vai por fora (sem entrar), por isso cada parada diz se dá pra entrar e se a locação exata é visível de graça.
 
 ## Entregas
+- 14/11/2026: cortadas 3 paradas por não ter acesso à locação (Krematorium, Tieranatomisches Theater e Altes Stadthaus). Reels reajustado para 8 trechos em 1:30. Removido o dado das 18 colunas do Altes Museum (era enchimento).
 - 13/11/2026: primeira versão da página (fotos, cenas, fatos, mapa, roteiro do Reels 1:30).
 - 13/11/2026: quadro "Dá pra ver a locação?" por parada; roteiro do Reels ampliado (mais falas, planos extras, pergunta pro público por trecho, mais ganchos, fechos, legenda e dicas de edição); Reels com seletor e abas no celular; publicado no GitHub Pages.
 

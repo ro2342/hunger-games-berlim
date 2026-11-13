@@ -3,7 +3,7 @@
 **Antes de trabalhar:** leia `PROGRESS.md` pra saber o que já foi feito e o que falta.
 
 ## O que é
-Página única (`index.html`) com 11 locações de Hunger Games em Berlim e o roteiro de um Reels de ~1:30 (com falas extras pra cortar na edição). Publicada no GitHub Pages.
+Página única (`index.html`) com 8 locações de Hunger Games em Berlim e o roteiro de um Reels de ~1:30 (com falas extras pra cortar na edição). Publicada no GitHub Pages.
 
 ## Stack
 - HTML + CSS + JS puro num arquivo só. Sem framework e sem biblioteca externa.
