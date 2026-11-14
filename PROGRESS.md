@@ -6,6 +6,7 @@
 - Rod só vai por fora (sem entrar), por isso cada parada diz se dá pra entrar e se a locação exata é visível de graça.
 
 ## Entregas
+- 14/11/2026 (correção): a parada "ICC Passerelle" era a passagem subterrânea laranja sob o Messedamm, não a ponte elevada. Foto trocada por um túnel laranja real (CC BY 4.0, Sebastian Rittau). Acesso: passagem pública, mas com propostas de fechar, confirmar antes.
 - 14/11/2026 (volta): Tieranatomisches Theater voltou ao roteiro. Visitável: entrada grátis, terça a sábado 14h–18h, fecha em feriados (fontes: berlin.de e Museumsportal). Uma fonte diz que parte da exposição é só online, confirmar antes. Reels com 9 trechos, em 1:30.
 - 14/11/2026: cortadas 3 paradas por não ter acesso à locação (Krematorium, Tieranatomisches Theater e Altes Stadthaus). Reels reajustado para 8 trechos em 1:30. Removido o dado das 18 colunas do Altes Museum (era enchimento).
 - 13/11/2026: primeira versão da página (fotos, cenas, fatos, mapa, roteiro do Reels 1:30).
